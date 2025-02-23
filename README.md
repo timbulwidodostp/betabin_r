@@ -1,6 +1,8 @@
 # betabin_r
 Beta-binomial model for proportions Use betabin (aod) With (In) R Software
 
+https://www.youtube.com/watch?v=fufaAiPH4Es
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
